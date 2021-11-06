@@ -31,10 +31,6 @@ section img:nth-of-type(odd){
     border-radius: 100px;
 }
 
-section img:nth-of-type(even){
-    float:right;
-    border-radius: 100px;
-}
 
 aside a{
     color:yellow;
@@ -42,4 +38,9 @@ aside a{
 
 table{
     color:orangered;
+    padding-left: 700px;
+}
+
+#paragrafo{
+    color: green;
 }
