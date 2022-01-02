@@ -12,10 +12,3 @@ function count() {
   contador += 1;
   text.innerHTML = contador;  
 }
-
-//4
-function frase (nome) {
-  return `Tryber ${nome} aqui!`;
-}
-
-frase(Carol);
